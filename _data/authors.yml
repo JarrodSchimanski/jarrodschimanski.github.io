@@ -1,0 +1,19 @@
+# Sample Authors
+# Remove file or replace with your own
+
+Billy Rick:
+  name: Jarrod Schimanski
+  picture: /images/bio-photo-2.jpg
+  twitter: "@jarrodschimanski"
+  links:
+    - title: Twitter
+      url: https://twitter.com/billyrick
+      icon: fab fa-twitter-square
+    - title: GitHub
+      url: https://github.com/jarrodschimanski
+      icon: fab fa-github-square
+
+Cornelius Fiddlebone:
+  name: Cornelius Fiddlebone
+  picture: /images/bio-photo.jpg
+  twitter: corneliusfiddlebone
