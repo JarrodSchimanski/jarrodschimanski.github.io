@@ -31,6 +31,9 @@ footer_links:
     icon: fab fa-twitter-square
   - title: 
     url: https://www.linkedin.com/in/jarrodschimanski/
+    icon: fab fa-youtube-square
+  - title: 
+    url: https://www.linkedin.com/in/jarrodschimanski/
     icon: fab fa-linkedin
   - title: 
     url: mailto:jarrod@schimanski.nz
